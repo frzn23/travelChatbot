@@ -53,7 +53,7 @@ cd travelChatbot
 
 2. Install required packages
 ```bash
-pip install openai streamlit
+pip install -r requirements.txt
 ```
 
 3. Configure OpenAI API Key
