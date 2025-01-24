@@ -122,7 +122,7 @@ Preferences: [Specific Interests]
 
 ## 📄 License
 
-[Specify your license, e.g., MIT License]
+MIT License
 
 ## 👥 Acknowledgements
 
